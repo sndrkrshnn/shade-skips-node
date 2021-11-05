@@ -1,0 +1,19 @@
+{
+  "name": "shade-skips-node",
+  "version": "1.0.0",
+  "description": "A simple validation algorithm to prevent SQL Injection vulnerabilities and Cross-site scripting vulnerabilities in your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sundarakrishnang/shade-skips-node.git"
+  },
+  "author": "Sundarakrishnan Ganesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sundarakrishnang/shade-skips-node/issues"
+  },
+  "homepage": "https://github.com/sundarakrishnang/shade-skips-node#readme"
+}
