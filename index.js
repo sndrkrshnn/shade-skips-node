@@ -26,3 +26,5 @@ function validateSQLInjection(data){
     }
     return {status: 'SQL Injection: NOT Vulnerable', condition: false}    
 }
+
+module.exports = validate
